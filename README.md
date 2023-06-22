@@ -9,7 +9,7 @@ Show the Image
 Then...
 
 ```
-import ShowImage from 'show-image';
+import ShowImage from 'showw-image';
 
 let image  = ShowImage(image-link);
 
