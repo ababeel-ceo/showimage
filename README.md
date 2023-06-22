@@ -4,7 +4,7 @@ Show the Image
 
 # Installation 
 
-`npm i show-image`
+`npm i showw-image`
 
 Then...
 
